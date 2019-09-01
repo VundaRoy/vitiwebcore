@@ -8,6 +8,7 @@ using vitiweb.Models;
 
 namespace vitiweb.Controllers
 {
+//future core additions
     public class HomeController : Controller
     {
         public IActionResult Index()
